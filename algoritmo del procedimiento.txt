@@ -1,0 +1,9 @@
+ALGORITMO DEL RECARGO AL CLIENTE DE ASEGURADORA
+
+1)Solicitar la informacion de edad al cliente.
+2)Verificar la edad del cliente, para cobrar el porcentaje de recargo respectivo.
+3)solicitar informacion del cliente sobre su estado civil, ¿Esta casado?
+4)Verificar la edad del conyugue del cliente, respecto al porcentaje indicado.
+5)solicitar al cliente la canitdad de hijos 
+6)Sumar un 20 porciento del precio base por cada hijo.(en caso los tuviera)
+7)Mostrar al cliente su nombre, recargo de poliza y su costo total.
